@@ -1,0 +1,8 @@
+# IDE
+.vscode/
+.zed/
+.claude/
+
+# Build
+.cache/
+site/
